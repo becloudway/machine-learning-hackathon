@@ -12,6 +12,7 @@ Amazon Sagemaker Python SDK: https://github.com/aws/sagemaker-python-sdk
 
 Python Google guide: https://developers.google.com/edu/python/  
 Amazon Sagemaker: https://docs.aws.amazon.com/sagemaker/latest/dg/whatis.html
+Amazon Sagemaker features: https://aws.amazon.com/sagemaker/features/  
 
 ## Examples
 
